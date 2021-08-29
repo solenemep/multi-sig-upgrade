@@ -1,0 +1,297 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "ADDRESS",
+  "sourceName": "contracts/utils/Address.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "ACA",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "AUSD",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "CASH",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "DEX",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "DOT",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "KAR",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "KSM",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "KUSD",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "LDOT",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "LKSM",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "LP_ACA_AUSD",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "LP_DOT_AUSD",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "LP_KAR_KUSD",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "LP_KSM_KUSD",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "LP_LDOT_AUSD",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "LP_LKSM_KUSD",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "LP_RENBTC_AUSD",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "ORACLE",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "RENBTC",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "SCHEDULE",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "STATE_RENT",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "TOKEN",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x608060405234801561001057600080fd5b50610536806100206000396000f3fe608060405234801561001057600080fd5b50600436106101425760003560e01c806380bd60e8116100b8578063bacbd7cc1161007c578063bacbd7cc14610327578063c30054c014610345578063c496981514610363578063d7f269fe14610381578063e18b7ac51461039f578063efcec265146103bd57610142565b806380bd60e81461029157806382bfefc8146102af578063a1b56226146102cd578063a5770a54146102eb578063b3d27bc51461030957610142565b80632fd7d1fd1161010a5780632fd7d1fd146101dd57806336e02950146101fb57806338013f02146102195780635d499e82146102375780636022c7ab1461025557806380935aa91461027357610142565b80630a4cad6b1461014757806316979a181461016557806318ad37af1461018357806318dca9ba146101a15780631f927675146101bf575b600080fd5b61014f6103db565b60405161015c91906104b3565b60405180910390f35b61016d6103e8565b60405161017a91906104b3565b60405180910390f35b61018b6103ee565b60405161019891906104b3565b60405180910390f35b6101a96103f6565b6040516101b691906104b3565b60405180910390f35b6101c7610403565b6040516101d491906104b3565b60405180910390f35b6101e561040b565b6040516101f291906104b3565b60405180910390f35b610203610413565b60405161021091906104b3565b60405180910390f35b61022161041b565b60405161022e91906104b3565b60405180910390f35b61023f610421565b60405161024c91906104b3565b60405180910390f35b61025d61042e565b60405161026a91906104b3565b60405180910390f35b61027b610436565b60405161028891906104b3565b60405180910390f35b61029961043c565b6040516102a691906104b3565b60405180910390f35b6102b7610449565b6040516102c491906104b3565b60405180910390f35b6102d561044f565b6040516102e291906104b3565b60405180910390f35b6102f3610457565b60405161030091906104b3565b60405180910390f35b610311610464565b60405161031e91906104b3565b60405180910390f35b61032f61046c565b60405161033c91906104b3565b60405180910390f35b61034d610479565b60405161035a91906104b3565b60405180910390f35b61036b610481565b60405161037891906104b3565b60405180910390f35b610389610489565b60405161039691906104b3565b60405180910390f35b6103a7610491565b6040516103b491906104b3565b60405180910390f35b6103c561049e565b6040516103d291906104b3565b60405180910390f35b6801000000020000000181565b61080381565b630100008181565b6801000000140000000181565b630100008381565b630100000181565b630100000281565b61080281565b6801000000820000008181565b630100000381565b61080481565b6801000000800000008181565b61080081565b630100000081565b6801000000000000000181565b630100008081565b6801000000830000008181565b630100008281565b630100001581565b630100001481565b6801000000030000000181565b61080181565b6104ad816104ce565b82525050565b60006020820190506104c860008301846104a4565b92915050565b60006104d9826104e0565b9050919050565b600073ffffffffffffffffffffffffffffffffffffffff8216905091905056fea2646970667358221220ef838f67e3ebf0e71184f7997e5133201a17dd94e2bd002899530a7bfc4301ce64736f6c63430008020033",
+  "deployedBytecode": "0x608060405234801561001057600080fd5b50600436106101425760003560e01c806380bd60e8116100b8578063bacbd7cc1161007c578063bacbd7cc14610327578063c30054c014610345578063c496981514610363578063d7f269fe14610381578063e18b7ac51461039f578063efcec265146103bd57610142565b806380bd60e81461029157806382bfefc8146102af578063a1b56226146102cd578063a5770a54146102eb578063b3d27bc51461030957610142565b80632fd7d1fd1161010a5780632fd7d1fd146101dd57806336e02950146101fb57806338013f02146102195780635d499e82146102375780636022c7ab1461025557806380935aa91461027357610142565b80630a4cad6b1461014757806316979a181461016557806318ad37af1461018357806318dca9ba146101a15780631f927675146101bf575b600080fd5b61014f6103db565b60405161015c91906104b3565b60405180910390f35b61016d6103e8565b60405161017a91906104b3565b60405180910390f35b61018b6103ee565b60405161019891906104b3565b60405180910390f35b6101a96103f6565b6040516101b691906104b3565b60405180910390f35b6101c7610403565b6040516101d491906104b3565b60405180910390f35b6101e561040b565b6040516101f291906104b3565b60405180910390f35b610203610413565b60405161021091906104b3565b60405180910390f35b61022161041b565b60405161022e91906104b3565b60405180910390f35b61023f610421565b60405161024c91906104b3565b60405180910390f35b61025d61042e565b60405161026a91906104b3565b60405180910390f35b61027b610436565b60405161028891906104b3565b60405180910390f35b61029961043c565b6040516102a691906104b3565b60405180910390f35b6102b7610449565b6040516102c491906104b3565b60405180910390f35b6102d561044f565b6040516102e291906104b3565b60405180910390f35b6102f3610457565b60405161030091906104b3565b60405180910390f35b610311610464565b60405161031e91906104b3565b60405180910390f35b61032f61046c565b60405161033c91906104b3565b60405180910390f35b61034d610479565b60405161035a91906104b3565b60405180910390f35b61036b610481565b60405161037891906104b3565b60405180910390f35b610389610489565b60405161039691906104b3565b60405180910390f35b6103a7610491565b6040516103b491906104b3565b60405180910390f35b6103c561049e565b6040516103d291906104b3565b60405180910390f35b6801000000020000000181565b61080381565b630100008181565b6801000000140000000181565b630100008381565b630100000181565b630100000281565b61080281565b6801000000820000008181565b630100000381565b61080481565b6801000000800000008181565b61080081565b630100000081565b6801000000000000000181565b630100008081565b6801000000830000008181565b630100008281565b630100001581565b630100001481565b6801000000030000000181565b61080181565b6104ad816104ce565b82525050565b60006020820190506104c860008301846104a4565b92915050565b60006104d9826104e0565b9050919050565b600073ffffffffffffffffffffffffffffffffffffffff8216905091905056fea2646970667358221220ef838f67e3ebf0e71184f7997e5133201a17dd94e2bd002899530a7bfc4301ce64736f6c63430008020033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
