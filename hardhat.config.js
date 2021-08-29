@@ -3,8 +3,6 @@ require('@openzeppelin/hardhat-upgrades');
 require('@nomiclabs/hardhat-waffle');
 require('@nomiclabs/hardhat-solhint');
 require('hardhat-docgen');
-//import { TestAccountSigningKey, Provider, Signer } from '@acala-network/bodhi';
-//import { WsProvider, Keyring } from '@polkadot/api';
 
 require('dotenv').config();
 

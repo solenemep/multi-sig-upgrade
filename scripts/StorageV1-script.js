@@ -2,6 +2,7 @@
 
 const { ethers, upgrades } = require('hardhat');
 const { deployed } = require('./deployed');
+const { getContract } = require('./getContract');
 
 async function main() {
   const [dev] = await ethers.getSigners();
@@ -12,6 +13,9 @@ async function main() {
   await storageV1.deployed();
 
   await deployed('StorageV1', hre.network.name, storageV1.address);
+
+  const MultiSigAddress = await getContract('MultiSig', hre.network.name);
+  await storageV1.transferOwnership(MultiSigAddress);
 }
 
 main()
